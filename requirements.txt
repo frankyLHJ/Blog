@@ -33,7 +33,6 @@ decorator==4.0.10
 dill==0.2.5
 Django==2.0.2
 docutils==0.12
-dynd===c328ab7
 et-xmlfile==1.0.1
 fastcache==1.0.2
 filelock==2.0.6
