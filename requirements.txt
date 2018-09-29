@@ -113,7 +113,6 @@ pyramid==1.9.1
 pytest==2.9.2
 python-dateutil==2.5.3
 pytz==2016.6.1
-pywin32==220
 PyYAML==3.12
 pyzmq==15.4.0
 QtAwesome==0.3.3
