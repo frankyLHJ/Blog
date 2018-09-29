@@ -68,7 +68,6 @@ locket==0.2.0
 lxml==3.6.4
 Markdown==2.6.11
 MarkupSafe==0.23
-menuinst==1.4.1
 mistune==0.7.3
 mpmath==0.19
 multipledispatch==0.4.8
